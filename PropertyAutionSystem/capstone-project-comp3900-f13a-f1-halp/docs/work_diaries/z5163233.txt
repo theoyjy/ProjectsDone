@@ -1,0 +1,61 @@
+Week 1
+  Group
+  - Met for the first time and introduced ourselves
+  - Decided on implementing the Online property sales project using python
+  - Created and Linked all accounts
+  
+  Me
+  - Created our Jira diretory as I have volunteered to be scrum master
+  - Learned how to create and manage files within Jira
+  - Revisiting how to use Github
+  - Creating some basic user stories for comparison for next week
+  
+  
+Week 2
+  Group
+  - Started working on the proposal
+  - Planning out the user stories, user architecture and user interface of the product
+  - Discussing the first sprint, and what needs to be done for what parts
+  
+  Me
+  - Created the user stories discussed in Jira
+  - Planned out basic time estimation for each user story
+
+Week 2
+  Group
+  - Workout out group member assignment with Yubai leave
+  - Finish finalizing all technology/language/libraries used in the project
+  - Finishing the Proposal due at the end of this week
+  
+  Me
+  - Creating System architecture diagram for proposal
+  - Editing User stories and explaining how user stories satisfy project objectives
+
+Week 3
+- This week, we were discussing and changing around our user stories as one of our group members left
+- Finalized the proposal and submitted it
+- Started looking through the first sprint
+
+Week 4
+- Started working with the database and construct database objects in SQLite
+- Watched a series of tutorial on Flask and SQLAlchemy
+
+Week 5
+- Finished the tasks of the first sprint
+- Looked thorugh HTML code for other auction sites, for use in Auction world design
+- Linking together tables using foreign keys in the database
+
+Week 6
+- Starting the Second sprint
+- Completing the retrospective from the first sprint
+
+Week 7
+- Trying to finish the tasks of the second sprint
+- Preparing for presentation in tutorial times
+
+Week 8
+- Starting the third sprint, finishing the tasks of the second sprint
+- Preparing the retrospective.
+
+Week 9
+- Preparing for final submission

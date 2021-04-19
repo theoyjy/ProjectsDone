@@ -1,0 +1,61 @@
+week1
+
+Group formed
+We are going to build an Online property Sale website by Python
+I revised User stories , studied on project description and built user stories for discussion in next meeting, and I tried little test on Jira to learn how to build user stories on this platform
+
+week2 Tue 22/09
+
+We discussed and worked out the user stories together and will be created by scrum master on Jira .
+I will be invesgating the background of online property auction.
+Others will be working on storyboard of our system.
+The whole project will be implemented by python and flask. 
+
+week2 Fri 25/09
+
+The backgroud and user stories on Jira were finished on time.
+We discussed the details of strotboards and assigned them for each member.
+By the next meeting, we are supposed to finish storyboard and system architecture.
+
+week3 Tue 29/09
+
+The assigned part of storyboards and system architecture are done.
+We are cutting off the user stories since one of our member leaves.
+I am going to finish the search section of storyboard, Damin is going to set up the python-flask environment on github and Roy will communicate with tutor to settle down our issues.We all needed to review the technical stuff from the past so that we can arrange and assign the sprints next meeting.
+
+week3 Fri 02/10
+
+Assigned the first sprint for us and start to doing the project
+
+week4 Wed 07/10
+
+Discussed the progression of our work and decided to build a class structure file for each member to interact with the system
+
+week4 Fri 09/10
+
+Short meeting about the progression and keep doing our work.
+
+week5 Fri 16/10
+
+Present our demon to tutors, we are slight behind the schedule but going to keep up by the end of this weed.
+
+week6 Tue
+Talked about good and bad about our progression. Roy wrote and submitted Retrospectives1.Assigned tasks for spring2
+
+week6 Fri
+Checked with each other's progression and issues.
+
+week7 Fri
+Checked with each other's progression and issues.
+
+week8 Tue
+Group together to assign tasks for spring3 
+
+week8 Fri
+Demon2, few errors occured but great presentation overall.
+
+week9 Tue
+Talked about good and bad about our progression. Roy wrote and submitted Retrospectives2. Assigned tasks to each member, Roy works on report, me an Damin works on system integrity, html styles and links
+
+week9 Fri
+together and merge all branches to master to check the consistancy and if all functions are implemented

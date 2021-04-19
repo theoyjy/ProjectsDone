@@ -1,0 +1,8 @@
+env/*
+online_property_sales/__pycache__/*
+*.pyc
+.pytest_cache/*
+online_property_sales/models/__pycache__/*
+online_property_sales/.vscode
+draft/*
+.vscode
