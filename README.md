@@ -1,2 +1,2 @@
 # ProjectsDone
-校内作业
+Major projects done during bachelor degree.
